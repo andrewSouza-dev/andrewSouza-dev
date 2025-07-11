@@ -10,7 +10,7 @@ My focus is to grow as a full stack developer, contributing to challenging proje
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/a_vinicius.dev/)
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-vin%C3%ADcius-de-souza-0661a8326/)
 
-![Andrew GitHub stats](https://github-readme-stats.vercel.app/api?username=andrew02souza&show_icons=true&theme=radical)
+![Andrew GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewSouza-dev&show_icons=true&theme=radical)
 
 ## Specialized programming languages 🚀
 
