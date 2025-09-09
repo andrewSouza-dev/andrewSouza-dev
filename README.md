@@ -26,4 +26,8 @@ My focus is to grow as a full stack developer, contributing to challenging proje
 <div style="display: inline_block"><br/>
 <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img align="center" alt="SQLSERVER" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+<img align="center" alt="PostgreSQL" src="[https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white](https://kinsta.com/wp-content/uploads/2022/02/postgres-logo.png)"/>
+<img align="center" alt="MongoDB" src="[https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white](https://2024.allthingsopen.org/wp-content/uploads/2024/05/Gold_MongoDB_FG.jpg)"/>
+
+  
 </div>
