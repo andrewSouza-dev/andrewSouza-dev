@@ -24,6 +24,15 @@ My focus is to grow as a full stack developer, contributing to challenging proje
   
 </div>
 
+## Most used frameworks🚀
+
+<div style="display: inline_block"><br/>
+  <img align="center" alt="JS" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>                                    
+  <img align="center" alt="JS" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  
+  
+</div>
+
 # Specialized databases 👨🏽‍💻
 <div style="display: inline_block"><br/>
   
