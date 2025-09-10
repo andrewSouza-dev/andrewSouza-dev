@@ -6,7 +6,7 @@ I have introductory knowledge of relational databases such as SQL Server and MyS
 My focus is to grow as a full stack developer, contributing to challenging projects and learning from each step of the process.
 
 
-## My social networks 🌎
+## My social media 🌎
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/a_vinicius.dev/)
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-vin%C3%ADcius-de-souza-0661a8326/)
 
