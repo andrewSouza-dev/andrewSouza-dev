@@ -29,7 +29,7 @@ My focus is to grow as a full stack developer, contributing to challenging proje
   
 </div>
 
-## Most used tools
+## Most used tools🚀
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="nodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="60" width="50"/>  
