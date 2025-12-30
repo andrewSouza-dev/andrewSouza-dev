@@ -40,6 +40,7 @@ My focus is to grow as a full stack developer, contributing to challenging proje
   <img align="center" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="60" width="50"/>
   <img align="center" alt="gitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="60" width="50"/>
   <img align="center" alt="postman" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="60" width="50"/>
+  <img align="center" alt="postman" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" height="60" width="50"/>
   
 </div>
 
