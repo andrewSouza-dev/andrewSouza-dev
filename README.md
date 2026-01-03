@@ -23,10 +23,11 @@ My focus is to grow as a full stack developer, contributing to challenging proje
 ## Most used frameworks🚀
 
 <div style="display: inline_block"><br/>
-  <img align="center" alt="express" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="60" width="50"/>                                  
+  <img align="center" alt="express" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="60" width="50"/>           
   <img align="center" alt="bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="60" width="50"/>
   <img align="center" alt=".netcore" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="60" width="50"/>
-  
+  <img align="center" alt="entityFramework" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/entityframeworkcore/entityframeworkcore-original.svg" height="60" width="50"/>
+  <img align="center" alt="entityFramework" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" height="60" width="50"/>
 </div>
 
 ## Most used tools🚀
