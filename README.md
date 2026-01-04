@@ -1,5 +1,5 @@
 ### Hi, i'm Andrew 👋🏽
-I'm a programming student with a passion for technology and software development. I have solid knowledge of JavaScript, Node.js and TypeScript, as well as experience with version control using Git and package management with npm. I have worked on small personal and collaborative projects, exploring everything from simple APIs to more advanced features with a Node backend.
+I'm a programming student with a passion for technology and software development. I have solid knowledge of JavaScript,TypeScript and C#, as well as experience with version control using Git and package management with npm. I have worked on small personal and collaborative projects, exploring everything from simple APIs to more advanced features with a Node backend and asp.net!
 
 I have introductory knowledge of relational databases such as SQL Server and MySQL, which allows me to create and query data efficiently. I am constantly learning, seeking to improve my technical skills and expand my knowledge of the web development ecosystem.
 
