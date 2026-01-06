@@ -21,13 +21,13 @@ My goal is to grow as a **Full Stack Developer**, contributing to challenging pr
 
 
 
----
+
 
 ## 🌎 Social Media
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/a_vinicius.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devandrew/)
 
----
+
 
 ## 🚀 Programming Languages
 <div align="center">
@@ -36,7 +36,7 @@ My goal is to grow as a **Full Stack Developer**, contributing to challenging pr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="50"/>
 </div>
 
----
+
 
 ## 🚀 Frameworks
 <div align="center">
@@ -47,7 +47,7 @@ My goal is to grow as a **Full Stack Developer**, contributing to challenging pr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" height="50"/>
 </div>
 
----
+
 
 ## 🚀 Tools
 <div align="center">
@@ -62,7 +62,7 @@ My goal is to grow as a **Full Stack Developer**, contributing to challenging pr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" height="50"/>
 </div>
 
----
+
 
 ## 👨🏽‍💻 Databases
 <div align="center">
