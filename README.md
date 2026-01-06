@@ -5,10 +5,6 @@ I have introductory knowledge of relational databases such as SQL Server and MyS
 
 My focus is to grow as a full stack developer, contributing to challenging projects and learning from each step of the process.
 
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
 ###
 
 <div align="center">
