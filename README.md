@@ -21,13 +21,15 @@ My goal is to grow as a **Full Stack Developer**, contributing to challenging pr
 
 ---
 
-# 🌎 Social Media
+##🌎 Social Media
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/a_vinicius.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devandrew/)
 
 
 
 ## 🚀 Programming Languages
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="50"/>
@@ -37,6 +39,7 @@ My goal is to grow as a **Full Stack Developer**, contributing to challenging pr
 
 
 ## 🚀 Frameworks
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="50"/>
@@ -48,6 +51,7 @@ My goal is to grow as a **Full Stack Developer**, contributing to challenging pr
 
 
 ## 🚀 Tools
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" height="50"/>
@@ -63,6 +67,7 @@ My goal is to grow as a **Full Stack Developer**, contributing to challenging pr
 
 
 ## 👨🏽‍💻 Databases
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="50"/>
