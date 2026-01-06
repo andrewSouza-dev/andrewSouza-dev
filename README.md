@@ -13,7 +13,7 @@ My focus is to grow as a full stack developer, contributing to challenging proje
 ###
 
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="50" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
