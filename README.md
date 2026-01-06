@@ -11,9 +11,10 @@ My goal is to grow as a **Full Stack Developer**, contributing to challenging pr
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andrewSouza-dev&show_icons=true&theme=dracula&cache_seconds=1800" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewSouza-dev&layout=compact&theme=dracula&cache_seconds=1800" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=andrewSouza-dev&show_icons=true&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrewSouza-dev&layout=compact&theme=dracula"/>
 </div>
+
 
 ---
 
