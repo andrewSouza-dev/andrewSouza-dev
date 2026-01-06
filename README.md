@@ -19,9 +19,7 @@ My goal is to grow as a **Full Stack Developer**, contributing to challenging pr
 
 </div>
 
-
-
-
+---
 
 ## 🌎 Social Media
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/a_vinicius.dev/)
