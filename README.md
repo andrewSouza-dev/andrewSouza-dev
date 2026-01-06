@@ -54,6 +54,10 @@ My focus is to grow as a full stack developer, contributing to challenging proje
   
 </div>
 
+###
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
