@@ -53,3 +53,7 @@ My focus is to grow as a full stack developer, contributing to challenging proje
   <img align="center" alt="sqlserver" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" height="60" width="50"/>
   
 </div>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
