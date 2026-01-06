@@ -5,13 +5,18 @@ I have introductory knowledge of relational databases such as SQL Server and MyS
 
 My focus is to grow as a full stack developer, contributing to challenging projects and learning from each step of the process.
 
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
 
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=andrewSouza-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrewSouza-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+###
 
 ## My social media 🌎
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/a_vinicius.dev/)
@@ -61,9 +66,3 @@ My focus is to grow as a full stack developer, contributing to challenging proje
   <img align="center" alt="sqlserver" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" height="60" width="50"/>
   
 </div>
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
-
