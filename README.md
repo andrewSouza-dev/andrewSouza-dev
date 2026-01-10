@@ -10,14 +10,12 @@ My goal is to grow as a **Full Stack Developer**, contributing to challenging pr
 
 ---
 
-<div align="center">
-  
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrewSouza-dev&theme=dracula)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrewSouza-dev&theme=dracula" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andrewSouza-dev&theme=dracula" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andrewSouza-dev&theme=dracula" />
+</p>
 
-![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andrewSouza-dev&theme=dracula)
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andrewSouza-dev&theme=dracula)
-
-</div>
 
 ---
 
