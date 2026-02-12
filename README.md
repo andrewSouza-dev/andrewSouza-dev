@@ -4,7 +4,7 @@ I'm a programming student with a passion for technology and software development
 
 I have worked on small personal and collaborative projects, ranging from simple APIs to more advanced features using **Node.js** and **ASP.NET**.
 
-I have foundational knowledge of relational databases such as **SQL Server** and **MySQL**, allowing me to efficiently create, query, and manage data. I am constantly learning, improving my technical skills, and expanding my understanding of the web development ecosystem.
+I have advanced knowledge of relational databases such as **SQL Server** and **MySQL**, allowing me to efficiently create, query, and manage data. I am constantly learning, improving my technical skills, and expanding my understanding of the web development ecosystem.
 
 My goal is to grow as a **Full Stack Developer**, contributing to challenging projects and learning at every step of the journey.
 
